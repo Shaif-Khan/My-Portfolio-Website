@@ -1115,4 +1115,13 @@ footer a i{
 
 
 }
+.photo{
+    width:600px;
+    border-radius:300px;
+}
+.photo_2{
+    width:400px;
+    border-radius:100px;
+}
+
 
