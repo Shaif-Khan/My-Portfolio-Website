@@ -9,45 +9,46 @@ I'm thrilled to share one of my favorite personal projects — a fully responsiv
 What makes it unique? It includes a real-time SMTP-powered contact form ✉️ and is deployed live on Vercel, enabling fast, seamless updates directly from GitHub! 🚀
 
 🛠️ Tech Stack Used
-🔹 HTML5 – Semantic structure & clean markup
 
-🔹 CSS3 – Custom styles, animations & responsiveness
-
-🔹 JavaScript – Interactivity & dynamic content
-
-🔹 SMTP.js – Email functionality through contact form
-
-🔹 Boxicons – Elegant and lightweight icons
-
-🔹 Google Fonts (Poppins) – Clean modern typography
-
-🔹 GitHub – Version control & source code hosting
-
-🔹 Vercel – CI/CD deployment & lightning-fast hosting
+            🔹 HTML5 – Semantic structure & clean markup
+            
+            🔹 CSS3 – Custom styles, animations & responsiveness
+            
+            🔹 JavaScript – Interactivity & dynamic content
+            
+            🔹 SMTP.js – Email functionality through contact form
+            
+            🔹 Boxicons – Elegant and lightweight icons
+            
+            🔹 Google Fonts (Poppins) – Clean modern typography
+            
+            🔹 GitHub – Version control & source code hosting
+            
+            🔹 Vercel – CI/CD deployment & lightning-fast hosting
 
 🌐 Key Website Features
-🏠 Home – Personalized welcome with smooth scroll
-
-🙋 About – Quick introduction to who I am
-
-💼 Experience – Timeline of education & work
-
-🛠 Skills – A visual showcase of my tech stack
-
-📁 Portfolio – Projects with links & descriptions
-
-📬 Contact – Integrated SMTP-powered email form
+            🏠 Home – Personalized welcome with smooth scroll
+            
+            🙋 About – Quick introduction to who I am
+            
+            💼 Experience – Timeline of education & work
+            
+            🛠 Skills – A visual showcase of my tech stack
+            
+            📁 Portfolio – Projects with links & descriptions
+            
+            📬 Contact – Integrated SMTP-powered email form
 
 🔧 Development Highlights
-✅ Fully responsive – Mobile, tablet, and desktop friendly
-
-✅ Clean & modular code – Easy to read, maintain, and extend
-
-✅ Smooth UI/UX – With icon animations & scroll effects
-
-✅ Deployed on Vercel – With GitHub repo integration
-
-✅ Fast & lightweight – Optimized for performance
+            ✅ Fully responsive – Mobile, tablet, and desktop friendly
+            
+            ✅ Clean & modular code – Easy to read, maintain, and extend
+            
+            ✅ Smooth UI/UX – With icon animations & scroll effects
+            
+            ✅ Deployed on Vercel – With GitHub repo integration
+            
+            ✅ Fast & lightweight – Optimized for performance
 
 🔗 Explore the Project
 🌐 Live Site:
