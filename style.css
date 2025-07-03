@@ -1125,3 +1125,105 @@ footer a i{
 }
 
 
+/* === GLOBAL FIX FOR IMAGES === */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* === FIX BUTTON BOX FOR SMALL SCREENS === */
+@media (max-width: 576px) {
+  .btn-box {
+    flex-direction: column;
+    width: 100% !important;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .btn-box .btn {
+    width: 90% !important;
+    text-align: center;
+  }
+
+  .home-content h1 {
+    font-size: 1.8rem !important;
+  }
+
+  .info-box {
+    flex-direction: column;
+    width: 100% !important;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  .img-box img {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+
+  .skill-main {
+    grid-template-columns: 1fr !important;
+  }
+
+  .professional {
+    grid-template-columns: 1fr !important;
+  }
+
+  .navlist {
+    width: 100% !important;
+  }
+
+  .experience-box img {
+    width: 100%;
+    height: auto;
+  }
+
+  .experience-box {
+    flex: 1 1 100% !important;
+  }
+
+  .social-icons {
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 100% !important;
+    justify-content: center;
+  }
+}
+
+/* === GENERAL WIDTH CONSTRAINTS === */
+section, .home, .about, .skills, .portfolio {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 5vw;
+}
+
+/* === MAKE PORTFOLIO GALLERY FLEXIBLE === */
+.portfolio-gallery {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)) !important;
+  gap: 1.5rem;
+}
+
+/* === ENSURE NAVLIST DOESN'T BREAK === */
+.navlist.open {
+  top: 100%;
+  position: absolute;
+  left: 0;
+  width: 100vw;
+  background-color: var(--bg-color);
+  padding: 1rem 5%;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+  z-index: 999;
+}
+
+/* === SAFETY PADDING ON BODY FOR ZOOM === */
+body {
+  width: 100%;
+  overflow-x: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+
+
